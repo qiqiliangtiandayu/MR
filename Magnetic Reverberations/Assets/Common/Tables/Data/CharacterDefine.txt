@@ -1,0 +1,27 @@
+{
+  "1": {
+    "ID": 1,
+    "Name": "奥斯特",
+    "Description": "首位发现磁场的科学家，也是受困于磁场的忘归人",
+    "Copywriting": "他们从未存在，所以我必须存在过",
+    "Type": "玩家",
+    "HP": 100.0,
+    "HealthRecover": 2.0,
+    "Attack": 10,
+    "Defense": 10,
+    "RemoteDiscrete": 15.0,
+    "RangedAttack": 10,
+    "Endurance": 1000,
+    "RecoverSpeed": 50,
+    "BaseSpeed": 5.0,
+    "Acceleration": 8.0,
+    "RunSpeed": 10.0,
+    "RunDeplete": -70,
+    "JumpDeplete": -25,
+    "JumpSpeed": 3.0,
+    "SquatRecoverSpeed": -20,
+    "SquatHeight": 0.8,
+    "SquatSpeed": 3.0,
+    "FallTime": 8.0
+  }
+}

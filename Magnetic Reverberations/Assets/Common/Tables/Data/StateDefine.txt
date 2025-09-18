@@ -1,0 +1,108 @@
+{
+  "1": {
+    "ID": 1,
+    "Name": "健康",
+    "Description": "整装待发",
+    "Copywriting": "整装待发",
+    "Weight": 1,
+    "StateTime": 10000.0,
+    "HP": 1.0,
+    "HealthRecover": 1.0,
+    "Attack": 1.0,
+    "Defense": 1.0,
+    "RemoteDiscrete": 1.0,
+    "RangedAttack": 1.0,
+    "Endurance": 1.0,
+    "RecoverSpeed": 1.0,
+    "BaseSpeeed": 1.0,
+    "Acceleration": 1.0,
+    "RunSpeed": 1.0,
+    "RunDeplete": 1.0,
+    "JumpSpeed": 1.0,
+    "JumpDeplete": 1.0,
+    "SquatRecoverSpeed": 1.0,
+    "SquatTime": 1.0
+  },
+  "2": {
+    "ID": 2,
+    "Name": "昏迷",
+    "Description": "我是谁？我在哪？我要去往何方？",
+    "Copywriting": "我是谁？我在哪？我要去往何方？",
+    "Weight": 100,
+    "StateTime": 300.0,
+    "Restore": 2.0,
+    "CorrelationID": 1,
+    "HP": 0.1,
+    "Attack": 0.1,
+    "Defense": 0.2,
+    "RemoteDiscrete": 100.0,
+    "RangedAttack": 0.0,
+    "Endurance": 0.0,
+    "RecoverSpeed": 1.0,
+    "BaseSpeeed": 0.0,
+    "Acceleration": 0.0,
+    "RunSpeed": 0.0,
+    "RunDeplete": 0.0,
+    "JumpSpeed": 0.0,
+    "JumpDeplete": 0.0,
+    "SquatRecoverSpeed": 0.0,
+    "SquatTime": 0.0,
+    "NextID": 7
+  },
+  "3": {
+    "ID": 3,
+    "Name": "狂暴",
+    "Description": "彻底疯狂",
+    "Copywriting": "彻底疯狂"
+  },
+  "4": {
+    "ID": 4,
+    "Name": "亢奋",
+    "Description": "我要打十个！",
+    "Copywriting": "我要打十个！"
+  },
+  "5": {
+    "ID": 5,
+    "Name": "受伤",
+    "Description": "一级戒备",
+    "Copywriting": "一级戒备",
+    "Restore": 1.8,
+    "CorrelationID": 1
+  },
+  "6": {
+    "ID": 6,
+    "Name": "重伤",
+    "Description": "人生三大错觉：手机震动，她喜欢我，我能反杀",
+    "Copywriting": "人生三大错觉：手机震动，她喜欢我，我能反杀",
+    "Weight": 10,
+    "Restore": 1.5,
+    "CorrelationID": 1
+  },
+  "7": {
+    "ID": 7,
+    "Name": "眩晕",
+    "Description": "再上...我还能喝...",
+    "Copywriting": "再上...我还能喝...",
+    "Weight": 70,
+    "Restore": 2.0,
+    "CorrelationID": 2
+  },
+  "8": {
+    "ID": 8,
+    "Name": "力竭",
+    "Description": "量力而行",
+    "Copywriting": "量力而行",
+    "Weight": 30,
+    "Restore": 2.0,
+    "CorrelationID": 2
+  },
+  "9": {
+    "ID": 9,
+    "Name": "腿麻",
+    "Description": "蹲太久可不好",
+    "Copywriting": "蹲太久可不好",
+    "Weight": 2,
+    "Restore": 3.0,
+    "CorrelationID": 2
+  }
+}
